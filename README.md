@@ -41,6 +41,9 @@ An open-source alternative to SteelSeries GG for Linux. It sets keyboard lightin
   <a href="https://github.com/fevz10/opengg"><img src="https://raw.githubusercontent.com/fevz10/opengg/main/docs/screenshots/apex3tkl-illumination.png" width="100%" alt="OpenGG on Linux, editing the eight lighting zones of a SteelSeries Apex 3 TKL keyboard"></a>
 </p>
 
+**[Zephyr RTOS](https://github.com/zephyrproject-rtos/zephyr/pull/124673)** &nbsp;`C` `Devicetree`<br>
+Upstream contribution, merged in November 2026: support for the on-board SPI NOR flash of the NXP FRDM-MCXN236.
+
 **[ocpp_client](https://github.com/fevz10/ocpp_client)** &nbsp;`C` `libwebsockets` `cJSON` `SocketCAN`<br>
 An OCPP 1.6J charge point client for embedded Linux. It reads live session data from the charge controller over CAN and reports it to the backend.
 
@@ -50,16 +53,9 @@ The 800×480 touchscreen interface of a wallbox charger: charging flow, RFID car
 **[FDLib](https://github.com/fevz10/FDLib)** &nbsp;`Altium Designer`<br>
 An Altium Designer library of 60+ components with schematic symbols, footprints and 3D STEP models.
 
-**[Zephyr RTOS](https://github.com/fevz10/zephyr/tree/frdm_mcxn236-w25q64)** &nbsp;`C` `Devicetree`<br>
-Board support in progress: the on-board SPI NOR flash of the NXP FRDM-MCXN236.
-
 ## Toolbox
 
 - **Languages:** `C` `C++` `Python` `QML` `C#`
 - **Platforms:** `Zephyr RTOS` `Embedded Linux` `STM32` `NXP S32K` `TI Hercules` `NVIDIA Jetson`
 - **Protocols and standards:** `CAN` `UDS (ISO 14229-1)` `OCPP 1.6` `ISO 15118` `IEC 61851`
 - **Tools:** `Qt` `CMake` `Altium Designer` `Vector CANalyzer` `Git`
-
-## Background
-
-B.Sc. in Electronics and Communication Engineering from Kocaeli University. Twice a Teknofest Robotaxi finalist with the KoDrive autonomous vehicle team (2019 and 2021), and author of a paper on deep-learning vehicle counting and tracking (IMASCON 2022).
