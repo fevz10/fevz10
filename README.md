@@ -53,6 +53,13 @@ The 800×480 touchscreen interface of a wallbox charger: charging flow, RFID car
 **[FDLib](https://github.com/fevz10/FDLib)** &nbsp;`Altium Designer`<br>
 An Altium Designer library of 60+ components with schematic symbols, footprints and 3D STEP models.
 
+## Credentials
+
+<a href="https://www.credly.com/badges/4039cb59-0781-4939-ba7b-83edb868e905"><img src="assets/zephyr-technical-contributor.png" width="112" align="left" alt="Zephyr Project Technical Contributor badge issued by The Linux Foundation: a purple tile with the Zephyr kite logo."></a>
+**[Zephyr Technical Contributor](https://www.credly.com/badges/4039cb59-0781-4939-ba7b-83edb868e905)**<br>
+`Linux Foundation` `November 2026`<br>
+Awarded for a technical contribution accepted into the Zephyr Project: in my case, the [FRDM-MCXN236 flash support](https://github.com/zephyrproject-rtos/zephyr/pull/124673) listed above. It can be verified on [Credly](https://www.credly.com/badges/4039cb59-0781-4939-ba7b-83edb868e905).<br clear="left">
+
 ## Toolbox
 
 - **Languages:** `C` `C++` `Python` `QML` `C#`
